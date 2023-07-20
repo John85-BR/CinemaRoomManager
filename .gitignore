@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager (Console)/*
+!/Cinema Room Manager (Console)/task/
+/Cinema Room Manager (Console)/task/*
+!/Cinema Room Manager (Console)/task/src
+
+# Project exclude paths
+/Topics/Integers in action/Desks/out/
+/Topics/Integers in action/Desks/out/production/classes/
